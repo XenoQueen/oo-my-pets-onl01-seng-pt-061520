@@ -12,5 +12,6 @@ class Cat
     owner.cats << self
   end
   
-  def 
+  def self.all
+    
 end

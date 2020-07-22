@@ -6,5 +6,7 @@ class Cat
   @@cats = []
   
   def initialize(name, owner)
+    @name = name
+    @owner = owner
     
 end
